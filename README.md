@@ -1,5 +1,5 @@
 # Source code and Dataset of MultiModal Procedural Entity Recognition
-Inplementation of Our paper "Grounded Multimodal Procedural Entity Recognition for Procedural Documents: A New Dataset and Baseline" in COLING 2024
+Inplementation of Our paper "Grounded Multimodal Procedural Entity Recognition for Procedural Documents: A New Dataset and Baseline" in LREC-COLING 2024
 
 ## Requirements 
 
